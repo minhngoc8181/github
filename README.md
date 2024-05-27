@@ -21,8 +21,8 @@ A Git repository contains all of the project files and the entire revision histo
 - Hosted on platforms like GitHub, GitLab, or Bitbucket.
 - Facilitates collaboration and backup.
 
-![Git Repository Model](https://git-scm.com/book/en/v2/images/local.png)
-![Centralized Version Control Systems](https://git-scm.com/book/en/v2/images/centralized.png)
+![Git Repository Model](https://git-scm.com/book/en/v2/images/local.png){width=600 height=400}
+![Centralized Version Control Systems](https://git-scm.com/book/en/v2/images/centralized.png){width=600 height=400}
 
 ## Why Do We Need Git/GitHub
 - **Version Control**: Keeps track of every change made to the codebase.
